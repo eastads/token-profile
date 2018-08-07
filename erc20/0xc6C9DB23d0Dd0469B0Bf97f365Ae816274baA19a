@@ -1,0 +1,23 @@
+{
+  "symbol": "ECR",
+  "address": "0xc6C9DB23d0Dd0469B0Bf97f365Ae816274baA19a",
+  "overview":{
+        "en": "The first traditional Market token in Africa. Disrupting traditional buying & selling in Nigeria with a profitable & reliable model of commerce backed with blockchain tech.",
+        "zh": "非洲第一个传统的市场代币。通过区块链技术支持利用有利可图和可靠的商业模式破坏尼日利亚的传统买卖。"
+  },
+  "email": "mail@eastads.com.ng",
+  "website": "http://token.eastads.com.ng/",
+  "whitepaper": "http://token.eastads.com.ng/eastads.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-07-26",
+  "initial_price":{
+        "ETH":"0.000005 ETH",      
+  },
+  "links": {
+    "twitter": "https://twitter.com/eastadscredits",
+    "telegram": "https://t.me/eastadsCreditst",
+    "github": "https://github.com/eastads",
+    "facebook": "https://www.facebook.com/pg/Eastads-Credits-2126057644308163/",
+    "medium": "https://medium.com/@eastadscredit/"
+  }
+}
